@@ -1,0 +1,52 @@
+The Alchemist
+Paulo Coelho
+BN1001
+1
+To Kill a Mockingbird
+Harper Lee
+BN1002
+1
+1984
+George Orwell
+BN1003
+0
+Pride and Prejudice
+Jane Austen
+BN1004
+1
+The Great Gatsby
+F. Scott Fitzgerald
+BN1005
+0
+Moby Dick
+Herman Melville
+BN1006
+1
+War and Peace
+Leo Tolstoy
+BN1007
+1
+The Catcher in the Rye
+J.D. Salinger
+BN1008
+0
+Harry Potter and the Sorcerer's Stone
+J.K. Rowling
+BN1009
+1
+The Hobbit
+J.R.R. Tolkien
+BN1010
+1
+Atomic Habits
+James Clear
+BN1011
+0
+Deep Work
+Cal Newport
+BN1012
+1
+Arabian Nights
+Ibrahim Batuta
+BN1406
+1
